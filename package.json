@@ -1,0 +1,14 @@
+{
+  "name": "broccoli-prepend-commit",
+  "version": "0.0.1",
+  "description": "A broccoli plugin to append git commit hash of the build at top of all html, css and js files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek97",
+  "license": "ISC",
+  "dependencies": {
+    "broccoli-stew": "^1.5.0"
+  }
+}
