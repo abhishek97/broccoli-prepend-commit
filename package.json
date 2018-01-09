@@ -6,8 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "abhishek97",
+  "author": "Abhishek Gupta (abhishek97) <hi@itsabhishek.me>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek97/broccoli-prepend-commit.git"
+  },
   "license": "ISC",
+  "keywords": [
+    "broccoli",
+    "broccoli-plugin",
+    "broccoli-helper",
+    "prepend",
+    "add",
+    "commit",
+    "git",
+    "hash",
+    "commitId"
+  ],
   "dependencies": {
     "broccoli-stew": "^1.5.0"
   }
